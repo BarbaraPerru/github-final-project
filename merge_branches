@@ -1,0 +1,5 @@
+$ git merge bug-fix-typo
+Updating 44daf31..fb1c78f
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
